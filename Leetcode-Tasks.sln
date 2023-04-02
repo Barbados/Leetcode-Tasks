@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode-Tasks", "Leetcode-Tasks\Leetcode-Tasks.csproj", "{6A95D39C-80CD-4125-97A3-3D46C53A2013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLib", "CustomLib\CustomLib.csproj", "{2F26E3FC-BD44-47B7-AEF9-3C7F1B4CF052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A95D39C-80CD-4125-97A3-3D46C53A2013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A95D39C-80CD-4125-97A3-3D46C53A2013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A95D39C-80CD-4125-97A3-3D46C53A2013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A95D39C-80CD-4125-97A3-3D46C53A2013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F26E3FC-BD44-47B7-AEF9-3C7F1B4CF052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F26E3FC-BD44-47B7-AEF9-3C7F1B4CF052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F26E3FC-BD44-47B7-AEF9-3C7F1B4CF052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F26E3FC-BD44-47B7-AEF9-3C7F1B4CF052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A832E4-93CC-4DA3-8D4C-4CCD6DA35063}
+	EndGlobalSection
+EndGlobal
